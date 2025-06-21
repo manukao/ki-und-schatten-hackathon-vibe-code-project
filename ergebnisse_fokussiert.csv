@@ -1,0 +1,51 @@
+Bildname,Kategorie,Original_Label,Wahrscheinlichkeit(%),Confidence
+10_70501950.jpg,"Unbekannt","wreck",11.77,niedrig
+10_70501975.jpg,"Bäume/Vegetation","volcano",58.25,hoch
+11_70501950.jpg,"Bäume/Vegetation","maze, labyrinth",16.95,hoch
+11_70501975.jpg,"Solaranlagen/Technik","solar dish, solar collector, solar furnace",10.30,hoch
+12_70501950.jpg,"Gebäude/Infrastruktur","jigsaw puzzle",72.11,hoch
+12_70501975.jpg,"Unbekannt","trimaran",13.16,niedrig
+13_70501950.jpg,"Bäume/Vegetation","maze, labyrinth",7.80,hoch
+13_70501975.jpg,"Solaranlagen/Technik","solar dish, solar collector, solar furnace",8.27,hoch
+14_70501950.jpg,"Solaranlagen/Technik","solar dish, solar collector, solar furnace",14.00,hoch
+14_70501975.jpg,"Bäume/Vegetation","alp",16.26,hoch
+15_70501950.jpg,"Bäume/Vegetation","maze, labyrinth",8.98,hoch
+15_70501975.jpg,"Bäume/Vegetation","broccoli",8.86,hoch
+16_70501950.jpg,"Bäume/Vegetation","maze, labyrinth",6.85,hoch
+16_70501975.jpg,"Gebäude/Infrastruktur","viaduct",69.32,hoch
+17_70501950.jpg,"Gebäude/Infrastruktur","envelope",48.06,hoch
+17_70501975.jpg,"Solaranlagen/Technik","solar dish, solar collector, solar furnace",60.39,hoch
+18_70501950.jpg,"Gebäude/Infrastruktur","jigsaw puzzle",21.53,hoch
+18_70501975.jpg,"Gebäude/Infrastruktur","street sign",15.73,hoch
+19_70501950.jpg,"Gebäude/Infrastruktur","jigsaw puzzle",62.62,hoch
+19_70501975.jpg,"Solaranlagen/Technik","solar dish, solar collector, solar furnace",8.19,hoch
+1_70501950.jpg,"Solaranlagen/Technik","solar dish, solar collector, solar furnace",37.87,hoch
+1_70501975.jpg,"Solaranlagen/Technik","solar dish, solar collector, solar furnace",63.86,hoch
+20_70501950.jpg,"Gebäude/Infrastruktur","suspension bridge",16.39,hoch
+20_70501975.jpg,"Gebäude/Infrastruktur","tile roof",8.36,hoch
+21_70501950.jpg,"Gebäude/Infrastruktur","container ship, containership, container vessel",30.37,hoch
+21_70501975.jpg,"Gebäude/Infrastruktur","castle",12.82,hoch
+22_70501950.jpg,"Unbekannt","balloon",74.91,niedrig
+22_70501975.jpg,"Gebäude/Infrastruktur","viaduct",33.07,hoch
+23_70501950.jpg,"Bäume/Vegetation","alp",18.83,hoch
+23_70501975.jpg,"Bäume/Vegetation","volcano",11.38,hoch
+24_70501950.jpg,"Gebäude/Infrastruktur","birdhouse",9.50,hoch
+24_70501975.jpg,"Bäume/Vegetation","broccoli",20.71,hoch
+25_70501950.jpg,"Bäume/Vegetation","maze, labyrinth",5.91,hoch
+25_70501975.jpg,"Bäume/Vegetation","alp",12.07,hoch
+2_70501950.jpg,"Solaranlagen/Technik","solar dish, solar collector, solar furnace",70.69,hoch
+2_70501975.jpg,"Bäume/Vegetation","alp",5.57,hoch
+3_70501950.jpg,"Gebäude/Infrastruktur","viaduct",63.19,hoch
+3_70501975.jpg,"Gebäude/Infrastruktur","palace",9.31,hoch
+4_70501950.jpg,"Bäume/Vegetation","alp",15.86,hoch
+4_70501975.jpg,"Bäume/Vegetation","alp",15.23,hoch
+5_70501950.jpg,"Bäume/Vegetation","broccoli",42.90,hoch
+5_70501975.jpg,"Bäume/Vegetation","cliff, drop, drop-off",19.58,hoch
+6_70501950.jpg,"Gebäude/Infrastruktur","street sign",5.49,hoch
+6_70501975.jpg,"Bäume/Vegetation","maze, labyrinth",20.49,hoch
+7_70501950.jpg,"Bäume/Vegetation","maze, labyrinth",13.82,hoch
+7_70501975.jpg,"Gebäude/Infrastruktur","castle",48.40,hoch
+8_70501950.jpg,"Bäume/Vegetation","maze, labyrinth",10.39,hoch
+8_70501975.jpg,"Gebäude/Infrastruktur","jigsaw puzzle",43.10,hoch
+9_70501950.jpg,"Gebäude/Infrastruktur","viaduct",54.07,hoch
+9_70501975.jpg,"Bäume/Vegetation","volcano",32.78,hoch

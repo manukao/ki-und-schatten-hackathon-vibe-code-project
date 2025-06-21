@@ -1,0 +1,9 @@
+Bildname,Erkannte_Kategorien,Kategorien_Anzahl,Aktive_Regionen,Bäume_Regionen,Solar_Regionen,Gebäude_Regionen,Durchschnitt_Kategorien_Pro_Region,Annotiert_Pfad
+10_70501950.jpg,"Bäume/Vegetation; Solaranlagen/Technik; Gebäude/Infrastruktur",3,15,12,3,1,1.00,C:\Users\manue\Desktop\Code\ki-und-schatten-hackathon\detail_multi_bilder\detail_10_70501950.png
+10_70501975.jpg,"Bäume/Vegetation; Gebäude/Infrastruktur",2,16,16,0,2,1.13,C:\Users\manue\Desktop\Code\ki-und-schatten-hackathon\detail_multi_bilder\detail_10_70501975.png
+11_70501950.jpg,"Solaranlagen/Technik; Bäume/Vegetation; Gebäude/Infrastruktur",3,14,8,10,10,1.75,C:\Users\manue\Desktop\Code\ki-und-schatten-hackathon\detail_multi_bilder\detail_11_70501950.png
+11_70501975.jpg,"Bäume/Vegetation; Solaranlagen/Technik; Gebäude/Infrastruktur",3,16,11,12,10,2.06,C:\Users\manue\Desktop\Code\ki-und-schatten-hackathon\detail_multi_bilder\detail_11_70501975.png
+12_70501950.jpg,"Bäume/Vegetation; Gebäude/Infrastruktur; Solaranlagen/Technik",3,16,7,11,13,1.94,C:\Users\manue\Desktop\Code\ki-und-schatten-hackathon\detail_multi_bilder\detail_12_70501950.png
+12_70501975.jpg,"Gebäude/Infrastruktur; Solaranlagen/Technik; Bäume/Vegetation",3,14,7,9,4,1.25,C:\Users\manue\Desktop\Code\ki-und-schatten-hackathon\detail_multi_bilder\detail_12_70501975.png
+13_70501950.jpg,"Gebäude/Infrastruktur; Bäume/Vegetation; Solaranlagen/Technik",3,16,10,13,11,2.13,C:\Users\manue\Desktop\Code\ki-und-schatten-hackathon\detail_multi_bilder\detail_13_70501950.png
+13_70501975.jpg,"Solaranlagen/Technik; Bäume/Vegetation; Gebäude/Infrastruktur",3,15,9,10,7,1.63,C:\Users\manue\Desktop\Code\ki-und-schatten-hackathon\detail_multi_bilder\detail_13_70501975.png

@@ -1,0 +1,28 @@
+{
+  "name": "ki-und-schatten-hackathon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tensorflow",
+    "ai",
+    "image-classification",
+    "hackathon"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "AI and Shadow Hackathon Project",
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^3.21.0",
+    "@tensorflow/tfjs-converter": "^4.22.0",
+    "@tensorflow/tfjs-core": "^4.22.0",
+    "canvas": "^2.11.2",
+    "node-fetch": "^2.7.0"
+  }
+}
