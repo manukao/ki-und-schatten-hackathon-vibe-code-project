@@ -1,0 +1,168 @@
+# KI & Schatten Hackathon - .gitignore
+# =====================================
+
+# Node.js Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Generated Output Files
+# ======================
+
+# CSV Results (optional - comment out if you want to keep them)
+ergebnisse.csv
+ergebnisse_fokussiert.csv
+simple_multi_ergebnisse.csv
+detail_multi_ergebnisse.csv
+ultra_detail_ergebnisse.csv
+ultra_detail_ergebnisse_alle_50.csv
+
+# Generated Annotated Images (large files)
+simple_multi_bilder/
+detail_multi_bilder/
+ultra_detail_bilder/
+ultra_detail_bilder_alle_50/
+
+# Original Images (keep only if you want to share them)
+# Uncomment the next line if images are too large for repo
+# images/
+
+# TensorFlow.js Cache
+.tfjs_cache/
+tfjs_model_cache/
+
+# System Files
+# ============
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
+# IDE Files
+# =========
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# WebStorm/IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Temporary Files
+# ===============
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+.nyc_output/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# AI/ML Specific
+# ===============
+
+# Model files (if you download custom models)
+models/
+*.h5
+*.pb
+*.tflite
+
+# Large datasets
+datasets/
+training_data/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python cache (if you use Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Custom Project Files
+# ====================
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Test outputs
+test_output/
+debug_images/
+
+# Documentation builds
+docs/_build/
+
+# Miscellaneous
+# =============
+
+# Runtime files
+*.lock
+.cache/
+
+# OS generated files
+Icon?
+.Spotlight-V100
+.Trashes 
